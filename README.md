@@ -38,5 +38,5 @@
 ## Testing the Plugin
 - Verify the plugin’s functionality by checking the calculation and data transfer processes.
 - Ensure that each step is followed carefully to guarantee a smooth integration process.
-- If you encounter any issues, consult the Lovat platform’s customer service for assistance.
+- If you encounter any issues, consult the Lovat platform’s customer service [this link](https://github.com/LOVAT-compliance/opencart) for assistance.
 
