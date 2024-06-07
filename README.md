@@ -1,63 +1,42 @@
-"h1"OpenCart integration guide "/h1"
- 
+# OpenCart Integration Guide
 
-*Download files from link https://github.com/LOVAT-compliance/opencart
+## Download Files
+- Download files from [this link](https://github.com/LOVAT-compliance/opencart).
 
- 
+## Accessing the Admin Console
+- Navigate to the Admin Console of your OpenCart website.
 
-##Accessing the Admin Console
-*Navigate to the Admin Console of your OpenCart website.
-*Installing the Plugin
-*Go to the Extensions tab.
-*Select the Installer sub-section.
+## Installing the Plugin
+1. Go to the **Extensions** tab.
+2. Select the **Installer** sub-section.
+3. Click on **Upload**.
+4. Choose the `opencart-main.zip` file from your local disk.
+5. Once uploaded, the plugin named **Lovat** will appear in the plugins list.
 
+## Plugin Activation
+1. Click the **Install** button next to the Lovat plugin.
+2. A confirmation message will display, indicating a successful installation.
 
-##Click on Upload.
-*Choose the opencart-main.zip file from your local disk.
-*Once uploaded, the plugin named Lovat will appear in the plugins list.
+## Module Connection and Configuration
+1. Return to the **Extensions** tab.
+2. Choose **Modules** from the ‘Choose the extension type’ dropdown.
+3. Scroll to find the **Transactions** module.
+4. Click **Install** for the Transactions module.
+5. After installation, select **Edit** to configure the module.
 
+## Setting Module Preferences
+1. In the settings window, enter the Access Token provided by Lovat.
+2. Enable **Tax Calculation** and **Status**.
+3. Click **Save** to apply the settings.
 
- 
+## Configuring Store Location
+1. Go to the **System** menu.
+2. Select **Localization** and then **Store Location**.
+3. Find the store named **Lovat**, click **Edit**, and update the necessary information.
+4. Click **Save** to finalize the location settings.
 
-##Plugin Activation
-*Click the Install button next to the Lovat plugin.
-*A confirmation message will display, indicating a successful installation.
+## Testing the Plugin
+- Verify the plugin’s functionality by checking the calculation and data transfer processes.
+- Ensure that each step is followed carefully to guarantee a smooth integration process.
+- If you encounter any issues, consult the Lovat platform’s customer service for assistance.
 
-
-##Module Connection and Configuration
-*Return to the Extensions tab.
-*Choose Modules from the ‘Choose the extension type’ dropdown.
-
-
-*Scroll to find the Transactions module.
-*Click Install for the Transactions module.
-
-
-*After installation, select Edit to configure the module.
-
-
-##Setting Module Preferences
-*In the settings window, enter the Access Token provided by Lovat.
-*Enable Tax Calculation and Status.
-*Click Save to apply the settings.
- 
-
-
-
-##Configuring Store Location
-*Go to the System menu.
-*Select Localization and then Store Location.
-
-
- 
-
-*Find the store named Lovat, click Edit, and update the necessary information.
-
-
-*Click Save to finalize the location settings.
-
-##Testing the Plugin
-*Verify the plugin’s functionality by checking the calculation and data transfer processes.
-
-
-Ensure that each step is followed carefully to guarantee a smooth integration process. If you encounter any issues, consult the Lovat platform’s customer service for assistance.
