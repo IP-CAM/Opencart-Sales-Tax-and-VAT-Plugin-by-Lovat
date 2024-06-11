@@ -1,5 +1,7 @@
 # OpenCart Integration Guide
 
+Integrate the OpenCart store with Lovat, which lets you manage VAT, GST, and sales tax in real-time with one simple integration.
+
 ## Download Files
 - Download files from [this link](https://github.com/LOVAT-compliance/opencart).
 
